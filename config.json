@@ -1,0 +1,15 @@
+{
+    "autosave": true,
+    "donate-level": 1,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "pool.minexmr.com:443",
+            "user": "866i1waYvZHXx67aMxX12cfSvW83GLRUDJW2ZirH3WEPLNfQHSPveM3R7tLgEX8DHeg4TrpJMsyCwWRgvezCyENSLfNygT2.mach8",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
